@@ -1,5 +1,10 @@
 ### Jarrod Red Bird
-I.T Specialist Rosebud Sioux Tribe Sicangu Climate Center
+
+I.T Specialist 
+
+Sicangu Climate Center
+
+Rosebud Sioux Tribe
 
 RedBird.github.io 
 
