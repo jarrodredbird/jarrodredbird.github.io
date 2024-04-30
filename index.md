@@ -14,3 +14,7 @@ jayrodredbird@gmail.com
 
 
 ![1868-Treaty-map-optimized](https://github.com/jarrodredbird/RedBird.github.io/assets/166235367/a9fec7bc-6cce-4232-b3c0-4e3bcb1994f1)
+
+### Map of UTTC
+<embed type="text/html" src="uttc.html" width="600" height="600">
+
