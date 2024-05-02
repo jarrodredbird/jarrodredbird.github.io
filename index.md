@@ -16,5 +16,5 @@ jayrodredbird@gmail.com
 ![1868-Treaty-map-optimized](https://github.com/jarrodredbird/RedBird.github.io/assets/166235367/a9fec7bc-6cce-4232-b3c0-4e3bcb1994f1)
 
 ### rosebud south dakota
-[
-](https://www.openstreetmap.org/relation/194820#map=13/43.2382/-100.8211)
+
+ (https://www.openstreetmap.org/relation/194820#map=13/43.2382/-100.8211)
