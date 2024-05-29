@@ -16,4 +16,6 @@ jayrodredbird@gmail.com
 ![1868-Treaty-map-optimized](https://github.com/jarrodredbird/RedBird.github.io/assets/166235367/a9fec7bc-6cce-4232-b3c0-4e3bcb1994f1)
 
 ### Rosebud Reservation, South Dakota
-<embed type="text/html" src="img/rosebud.html" width="2500" height="2500">
+
+
+<embed type="text/html" src="img/rosebud.html" width="3000" height="3000">
